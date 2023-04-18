@@ -21,8 +21,8 @@
 * Installation - [Git (git-scm.com)](http://git-scm.com/)
 * User configuration
 ```
-git config --global user.name "prashanth kulkarni"
-git config --global user.email "prashanth@seedlegals.com"
+git config --global user.name "user name"
+git config --global user.email "email@example.com"
 git config --global --list
 ```
 
