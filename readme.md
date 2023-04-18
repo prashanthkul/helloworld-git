@@ -57,6 +57,7 @@ git config --global --list
 
 ## Git workflow
 * clone a repository `git clone <URL>`
+* `git pull` to get the latest changes from the remote repo
 * make changes as required
 * compare the changes `git diff`, `git diff <FILE_PATH>/<FILE_NAME>`
 * stage the modified changes using `git add .`, `git add <FILE_PATH>/<FILE_NAME>`
